@@ -1,19 +1,5 @@
-hey
+hey this is a docker image that takes one or more rtmp streams and exposes a barebones web page that plays the stream as HLS
 
-this is how i restream country-gated youtube streams like eurovision
+## usage
 
-please dont call the cops on me
-
-## requiremenet's
-
-* ffmpeg
-* youtube-dl
-* a web server
-
-## how to do the
-
-put it on your web server and run
-
-```
-./stream.sh "https://www.youtube.com/watch?v=YOURSTREAM"
-```
+idk yet i need to upload the image first hang on
